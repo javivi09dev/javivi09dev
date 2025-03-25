@@ -1,14 +1,11 @@
 
 # Hola, soy Javivi 👋
 
-Actualmente, estoy aprendiendo muy poco a poco sobre modding de Minecraft en Java y páginas web en JS 🧬
+Actualmente, estoy aprendiendo sobre JS y Java.
+
+Como sé que eres muy cotilla, puedes saber más sobre mí en mi web:
+
+☕ https://javivi.dev
 
 
-
-
-## Proyectos Relacionados
-
-Puedes revisarte algunos Proyectos interesantes:
-
-[Kindly Klan Launcher 💙](https://github.com/javivi09dev/KindlyKlanLauncher)
 
